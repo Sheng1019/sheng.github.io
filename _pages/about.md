@@ -47,6 +47,7 @@ My research goal is to bridge the practice gap between AI and domain application
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper "A Novel Diffusion Model for Pairwise Geoscience Data Generation with Unbalanced Training Dataset" accepted by AAAI
 - *2024.09*: &nbsp; Tutorial on [Novel Toolkits toward AI for Science on Resource-Constrained Computing Systems](https://esfair2023.github.io/esweek_turtorial/) at [ESWEEK 2024](https://esweek.org/)
 - *2024.07*: &nbsp;🎉🎉 Two papers are accepted by MICCAI 2024
 - *2024.06*: We give the tutorial of [Deep Learning Techniques for Wave-Based Imaging](https://junhuanyang.github.io/Computational-Wave-Imaging/) at [SIAM 2024](https://www.siam.org/conferences/cm/program/minitutorials/is24-minitutorials)
